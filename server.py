@@ -27,10 +27,6 @@ def test_js():
 def main_wasm():
     return send_from_directory("./", "main.wasm")
 
-@app.route('/test.iq')
-def test_iq():
-    return send_from_directory("./", "test.iq")
-
 if __name__ == "__main__":
     app.templates_auto_reload = True
     app.debug = True
