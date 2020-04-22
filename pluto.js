@@ -242,7 +242,7 @@ class PlutoSDR {
       }
     }
     let conf = {
-      centerFrequency: 100e6
+      centerFrequency: 915e6
     }
 
     /* update the CF */
