@@ -9,7 +9,7 @@
 
 Assuming nothing broke, you'll see something like the below screenshot (defaulting to 10MS/s sample rate, and a 915MHz center frequency).
 
-![screenshot](screenshot.png)
+![screenshot](img/screenshot.png)
 
 ## how does this work?
 
